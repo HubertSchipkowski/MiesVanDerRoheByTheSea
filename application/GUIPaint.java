@@ -25,7 +25,7 @@ import javafx.scene.paint.CycleMethod;
  * FileName	: GUIPaint.java
  * Description : A little bit of code painting with JavaFX
 
- * @author      Hubert Schipkowski (schipkowski@sincerelycontent.com)
+ * @author      Hubert Schipkowski
  *
  *
  * @version     1.0, 15.06.2020
